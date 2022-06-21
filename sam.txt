@@ -4,3 +4,4 @@ want to connect to the future
 test git pull and git merge
 test git stash and git pop
 test git stash and git pop on local
+test git switch tag checkout
