@@ -2,3 +2,4 @@ hi Sangram
 from clod
 want to connect to the future
 test git pull and git merge
+test git stash and git pop
